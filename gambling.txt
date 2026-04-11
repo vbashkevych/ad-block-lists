@@ -1,2 +1,21 @@
-# [777]
+# [Gambling UA]
+127.0.0.1 cosmolot.ua
+127.0.0.1 slotcity.ua
+127.0.0.1 casino.ua
 127.0.0.1 777.ua
+127.0.0.1 first.casino
+127.0.0.1 first.ua
+127.0.0.1 favbet.ua
+127.0.0.1 vbet.ua
+127.0.0.1 betking.com.ua
+127.0.0.1 ggbet.ua
+127.0.0.1 champion.ua
+127.0.0.1 championclub.ua
+127.0.0.1 supergra.ua
+127.0.0.1 gorilla.bet
+127.0.0.1 beton.ua
+127.0.0.1 vegas.ua
+127.0.0.1 winboss.ua
+127.0.0.1 slotor777.ua
+127.0.0.1 cosmobet.ua
+127.0.0.1 prematch.ua
