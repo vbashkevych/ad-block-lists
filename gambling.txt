@@ -19,3 +19,4 @@
 127.0.0.1 slotor777.ua
 127.0.0.1 cosmobet.ua
 127.0.0.1 prematch.ua
+127.0.0.1 *.html-load.cc
