@@ -21,3 +21,4 @@
 127.0.0.1 prematch.ua
 127.0.0.1 *.html-load.cc
 127.0.0.1 one-vv3595.com
+127.0.0.1 partypoker.ua
